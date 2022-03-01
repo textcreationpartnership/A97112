@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word in season: to all sorts of wel minded people in this miserably distracted and distempered nation. Plainly manifesting, that the safety and wel-being of the Common-wealth under God, dependeth on the fidelity, and stedfast adherence of the people, to those whom they have chosen, and on their ready compliance with them. Also, that the destruction and bondage of the Common-wealth in generall, and of every good minded man in particular cannot be avoided, if the people, through want of consideration, shall give eare to any other counsels or counsellers. Published by authority for the publique good.</title>
+            <author>Walwyn, William, 1600-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97112</idno>
+            <idno type="STC">Wing W695B</idno>
+            <idno type="STC">Thomason E1184_3</idno>
+            <idno type="STC">ESTC R208192</idno>
+            <idno type="EEBO-CITATION">99867165</idno>
+            <idno type="PROQUEST">99867165</idno>
+            <idno type="VID">119458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1184[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word in season: to all sorts of wel minded people in this miserably distracted and distempered nation. Plainly manifesting, that the safety and wel-being of the Common-wealth under God, dependeth on the fidelity, and stedfast adherence of the people, to those whom they have chosen, and on their ready compliance with them. Also, that the destruction and bondage of the Common-wealth in generall, and of every good minded man in particular cannot be avoided, if the people, through want of consideration, shall give eare to any other counsels or counsellers. Published by authority for the publique good.</title>
+                  <author>Walwyn, William, 1600-1681.</author>
+                  <author>Sadler, John, 1615-1674, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Paine, dwelling in Red-Crosse-street, in Goldsmiths-Alley, over against the signe of the Sugar-loafe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous. By William Walwyn.</note>
+                  <note>Sometimes erroneously attributed to John Sadler. Cf. McMichael and Taft, The writings of William Walwyn, p.196.</note>
+                  <note>An edition of: Walwyn, William.  A word in season: to all sorts of well minded people in this miserably distracted and distempered nation. According to McMichael and Taft, The writings of William Walwyn, p.196, this is the second edition.</note>
+                  <note>Annotation on Thomason copy: "Given about Westminster Hall by Lilburne the day the cittie remonstrance was presented. which was 26 may".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Identifed on UMI microfilm (Thomason Tracts) as S281.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England). --  Court of Common Council --  Early works to 1800.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Separatists --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119458:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Word in ſeaſon:</hi> TO ALL SORTS OF WEL minded people in this miſerably diſtra<g ref="char:EOLhyphen"/>cted and diſtempered Nation.</p>
+            <p>
+               <hi>Plainly manifeſting,</hi>
+               <lb/>
+That the ſafety and wel-being of the Common-wealth under God, dependeth on the fidelity, and ſtedfaſt adherence of the people, to thoſe whom they have choſen, <hi>and on their ready compliance with them.</hi>
+            </p>
+            <p>Alſo That the deſtruction and bondage of the Common-wealth in generall, and of every good minded man in particular cannot be avoided<g ref="char:punc">▪</g> if the peo<g ref="char:EOLhyphen"/>ple, through want of conſideration, ſhall <hi>give care to any other counſels or counſellers.</hi>
+            </p>
+            <q>
+               <bibl>Proverbs 2.11, 2.</bibl>
+               <p>Diſcretion ſhall preſerve thee, underſtanding ſhall keep thee, to deliver thee from the way of the evill man, from the man that ſpeaketh froward th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs.</p>
+            </q>
+            <p>Publiſhed by Authority for the Publique good.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Thomas Paine,</hi> dwelling in <hi>Red-Croſſe-ſtreet,</hi> in <hi>Goldſmithe-Alley,</hi> over againſt the ſigne of the <hi>Sugar-loafe.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119458:2"/>
+            <pb n="1" facs="tcp:119458:2"/>
+            <head>
+               <hi>A word in ſeaſon,</hi> TO ALL SORTS OF WELL MINDED PEOPLE IN this miſerably diſtracted and <hi>diſtempered Nation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">S</seg>INCE, (as the Scripture ſpeaketh) no man hateth his owne fleſh, but loveth and cheriſheth it; and that natu<g ref="char:EOLhyphen"/>rally, every man ſeeketh his own good: It is very ſtrange, ſeeing we have the helpe of Reaſon, of Ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erience, of the Word of God) that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he right way, which leadeth to that End, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould be ſo hard, and difficult, to bee found, certainly, it cannot be ſo in it ſelf; God hath been more good to man, then to make <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings neceſſary hard to come by.</p>
+            <p>The difficulty will rather be found to a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe by our owne default, from our want of a patient, ſetled, ſerious, and religious conſi<g ref="char:EOLhyphen"/>deration
+<pb n="2" facs="tcp:119458:3"/>of things, whereby we are continu<g ref="char:EOLhyphen"/>ally lyable upon all occaſions to be miſ-led either by our own evill and eager deſires, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the evill examples of others, or by evi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (though long ſetled) cuſtomes; or by the perſwaſions of politique deceivers, into ſuch wayes, which though they ſeem to be ſtrew<g ref="char:EOLhyphen"/>ed with Roſes and perfumes, yet are the wayes of death, and when we leaſt ſuſpect, bring us to deſtruction.</p>
+            <p>Our bleſſed Saviour therefore bids us <hi>to b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wiſe as Serpents,</hi> becauſe whilſt we live in this world we have to doe with Serpents, and to beware of Wolves that come to us in ſheeps clothing, to be innocent as Doves, is a moſt bleſſed temper of ſpirit, but very unſafe and lyable to every ginne, and bird of prey, if the wiſdom of the Serpent be not joyned there<g ref="char:EOLhyphen"/>with: Now all the helps of reaſon, of expe<g ref="char:EOLhyphen"/>rience or the Word of God, produce not this wiſdome without conſideration; adviſed de<g ref="char:EOLhyphen"/>liberate conſideration, (ſuch as few in this Nation are accuſtomed unto) without which that which is called knowledge or under<g ref="char:EOLhyphen"/>ſtanding, is not true knowledge nor under<g ref="char:EOLhyphen"/>ſtanding, ſerving to no publique uſe at all, except to diſtract and diſtemper, and ve<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="3" facs="tcp:119458:3"/>and deſtroy a Nation. It is the voice of God himſelfe; <hi>My people will not conſider, they will not underſtand;</hi> without conſideration it is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpoſſible to underſtand any thing as wee ought, and without underſtanding (true conſiderate underſtanding) man is like unto the beaſts that periſh: nor had this Nation ever been thus miſerable as it hath been, is, and is like to be, but for want of this kind of conſideration in the People; ſo that it may be as truly ſaid of this, as of the perverſe, raſh, inconſiderate Nation of the Jewes; thy deſtruction is of thy ſelf, O England. And if ever there were a cauſe to ſtudy and put in practice the wiſdome of the Serpent, to be<g ref="char:EOLhyphen"/>wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of Foxes that come to us in ſheeps clo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing: if ever there were a time requiring the uttermoſt of wiſdom and conſideration <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n all ſorts of people, rich and poore, high and low, one with another; now there is a cauſe, now is the time.</p>
+            <p>For never to this day, were thoſe who are truſted with the care of the Common<g ref="char:EOLhyphen"/>wealth, ſo beſet and ſurrounded with diffi<g ref="char:EOLhyphen"/>culties; with unexpected appearances of ſtrange things, ſuch as no age can parralell, of ſo high and great concernment, as the
+<pb n="4" facs="tcp:119458:4"/>leaſt miſcarriage therein, may in a moment of time make void all their long, their faith<g ref="char:EOLhyphen"/>full and painfull endevours, and involve us all into the moſt miſerable bondage that ever over-whelmed any people.</p>
+            <p>And therefore (however any ſort of men may delude themſelves) if wee doe not al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> joyntly and unanimouſly (laying aſide al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diſ affection for differences in judgement i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Religion) patiently, ſetledly and ſeriouſly deliberate and conſider what every one of us ought to doe, in reference to their preſerva<g ref="char:EOLhyphen"/>tion, abandoning all paſſion and wilfull proſecution of perverſe and prepoſterou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things, all jarring and repining at their pro<g ref="char:EOLhyphen"/>ceedings; this Nation cannot be ſafe or hap<g ref="char:EOLhyphen"/>pie, nay, cannot but bee miſerable and wretched.</p>
+            <p>For the greateſt and moſt ſuperlative freedome, of this Nation (and wherin the ſafty and welbeing thereof doth reſide) con<g ref="char:EOLhyphen"/>ſiſteth in this; That Lawes cannot be made Government (<hi>Eccleſiaſticall</hi> or <hi>Civill</hi>) cannnot be eſtabliſhed or Altered: Warre cannot be<g ref="char:EOLhyphen"/>levied, nor Peace concluded, nor monye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> raiſed, not any thing done; but by the Au<g ref="char:EOLhyphen"/>thority of thoſe whom the People them<g ref="char:EOLhyphen"/>ſelves
+<pb n="5" facs="tcp:119458:4"/>doe chuſe for Parliament: and intruſt as their Commiſſioners, with full and com<g ref="char:EOLhyphen"/>pleat power for their good. Had it not been by this juſt Authority, Wee had never been freed, from the tyrannies, oppreſſions and cruelties of the High Commiſſion, Star-Chamber, and Councel-board: from the burthenous Execution of Forreſt-law, Court of Honour, Commiſſions of Waſte: from the Extortions, and Exorbitances, in the Courtes of juſtice, Chancery, Requeſts: from Shipmoney (for remiſſion whereof, no leſſe then twelve Subſidies were requi<g ref="char:EOLhyphen"/>red) and from all thoſe other innumerable Patents, Projects, Illegall warrants, and Im<g ref="char:EOLhyphen"/>priſonments: Things which the whole Land long groned under; though (now re<g ref="char:EOLhyphen"/>moved) the benefit be unworthily forgot<g ref="char:EOLhyphen"/>ten, or miſ-attributed to an Act of grace.</p>
+            <p>Had it not been for this Authority; the Court of Wards had never been aboliſhed, that for many Ages hath oppreſſed the Land.</p>
+            <p>Had not this Authority oppoſed; the King had been furniſhed with monyes to have warred upon our Brethen of Scot<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and, in his firſt attempt upon that Nation.</p>
+            <p>
+               <pb n="6" facs="tcp:119458:5"/>
+This Authority, in the worſt of all for<g ref="char:EOLhyphen"/>mer Times, when the ſtrongeſt force and power was upon them<g ref="char:punc">▪</g> ever ſtuck cloſeſt to the intreſt of the People, nor did the People in the worſt of times, ever forſake them, but maintained Their power and priviledges, their Eſſence and Authority, whenſoever they called upon them for helpe and aſſi<g ref="char:EOLhyphen"/>ſtance, nor hath this juſt and powerfull Au<g ref="char:EOLhyphen"/>thority been more true to the Commons that choſe them, then to thoſe worthy Lords and Patriots, that at any time have aſſiſted them for the common good of the Nation, preſerving their Honours with as true affection as the liberties of the People; no man can name the time that (intentional<g ref="char:EOLhyphen"/>ly) this Authority ever did injury to any Juſt intreſt either at home or abroad, but have borne and ſuffered much, from thoſe that have made an ill uſe of their lenity and credulity.</p>
+            <p>All which is neceſſary to be remembred, and ſeriouſly conſidered in this inſtant of time, beauſe if theſe things be ſeriouſly laid to heart, it may happily expel thoſe poy<g ref="char:EOLhyphen"/>ſonous vapors, with which our ayre begins to be infected, wee have a generation of for<g ref="char:EOLhyphen"/>getfull,
+<pb n="7" facs="tcp:119458:5"/>ingratefull people, who becauſe the Parliament cannot yeeld unto all they deſire (without extreame thraldom to the people, in things Eccleſiaſticall and Civill) are dege<g ref="char:EOLhyphen"/>nerate into a malevolent diſpoſition, mur<g ref="char:EOLhyphen"/>muring and repining at all their procee<g ref="char:EOLhyphen"/>dings, and making hard conſtructions of their Juſt endevours; and by politique and ſubtill meanes, labour to alinate the hearts of their friends from them, and to incline them to give eare to other Counſels, laying open their infirmities, (which they ſhould rather go backward to cover) and would (if they could) poſſeſſe the world that there is a ſort of men that would ſettle Religion more purely, performe and interpret the Cove<g ref="char:EOLhyphen"/>nant more exactly, and doe juſtice more ſpeedily, and more ſincearely then this juſt Authority, whom the peoble themſelves have choſen, nay, there are fames abroad, that there are catalogues taken of any thing that may poſſibly bear a bad or ſiniſter con<g ref="char:EOLhyphen"/>ſtruction, to be ſhewed to the people, in the day of their extremity, if ſuch a day can be procured.</p>
+            <p>And for what end all this? Why, you ſhall not faile to be told it is for the glory of
+<pb n="8" facs="tcp:119458:6"/>God, the ſetting up of the Kingdome of Je<g ref="char:EOLhyphen"/>ſus Chriſt, and the everlaſting good of the ſoules of the people, and the like; but take yee heed how yee heare or give credit to theſe <hi>Syren</hi> ſongs? theſe charmes of <hi>Dalilah,</hi> are but to deprive <hi>Sampſon</hi> of his ſtrength, to rob the people of their Power: It is a ſad proverb, but Court Logick hath proved it ſo frequently true, that it may be related without ſuſpition of blaſphemy, <hi>In nomine Domini incipit omne malum;</hi> When the Di<g ref="char:EOLhyphen"/>vill transformes himſelfe into an Angell of light, to make his deluſion currant, he is ne<g ref="char:EOLhyphen"/>ceſſitated to uſe ſuch language: For which cauſe our bleſſed Saviour adviſeth us to be <hi>Wiſe as Serpents,</hi> leſt wee be beguiled by their ſubtill gloſing diſſimulations.</p>
+            <p>But as the Apoſtle ſaith in another caſe, <hi>If an Angell from heaven preach any other do<g ref="char:EOLhyphen"/>ctrine, let him be accurſed.</hi> So in this caſe, if any though in the ſhape of an Angell of light, of ſtength, of powers, or dominations, ſhall endevour, by any meanes whatſoever, to divide you from thoſe you have choſen, either in affection, or aſſiſtance, you are to hold them for the moſt accurſed Traitors that ever trode upon Engliſh ground, and to
+<pb n="9" facs="tcp:119458:6"/>uſe all lawfull meanes to bring them to con<g ref="char:EOLhyphen"/>digne puniſhment; being well aſſured, that whatſoever is pretended; the intent can be no other then to extirpate for ever the foun<g ref="char:EOLhyphen"/>dation of the freedom and ſafty of the peo<g ref="char:EOLhyphen"/>ple: which once done, a ready way is made for any thing that can make a people wret<g ref="char:EOLhyphen"/>ched and miſerable, without hope of reme<g ref="char:EOLhyphen"/>dy.</p>
+            <p>And therefore be adviſed in time, before you are ingaged too farre, and be confident, thoſe inconveniences you have fancyed to your ſelves (and wherein you are like e<g ref="char:EOLhyphen"/>nough to be miſtaken) if they ſhould in<g ref="char:EOLhyphen"/>deed prove reall ones, yet were you better to have patience, and by loving diſcourſes and prudent meanes endevour to worke a better information, (which time may pro<g ref="char:EOLhyphen"/>duce, as by experience in your ſelves you cannot but know) rather then through im<g ref="char:EOLhyphen"/>patience and violent importunity, to caſt your ſelves upon a remedy that muſt neceſ<g ref="char:EOLhyphen"/>ſarily be deſtructive to the whole people of the Land: For once ſuppoſe or admit that any (pretending whatſoever, piety or au<g ref="char:EOLhyphen"/>thority) may more properly judge of Law (or religion ſo far as concernes the publique)
+<pb n="10" facs="tcp:119458:7"/>or give interpretation of <hi>oaths</hi> or covenants, or treaties or tranſactions, or any thing which is of publick concernment, then thoſe whom the people have choſen<g ref="char:punc">▪</g> and fare<g ref="char:EOLhyphen"/>well common freedome for ever, who ever thoſe are you would ſo prefer, as far as in you is, in ſo admitting or ſuppoſing, you be<g ref="char:EOLhyphen"/>tray the great freedome of the Nation, and ſet Maſters over the Parliament, then which there can be no greater Treaſon.</p>
+            <p>Be not flattered and deluded out of your <hi>Birthright:</hi> Conſider, what ever you are, you are but apart of the whole people, it is impoſſible that you can give the ſenſe and minde of all the Commons of <hi>England:</hi> Nay, if you could, it is not lawfull for you to doe it otherwiſe then by a becomming information, and to reſt ſatisfied when you have ſo done: You are not intruſted by the people, you are not Choſen to that end: But this juſt Authoritie is a power choſen, and intruſted; and you are to know, that they are abſolutely Free to follow the dictat of their owne Underſtandings and Conſci<g ref="char:EOLhyphen"/>ences, informed by the word of God, by principles of right Reaſon, and all other good meanes, as is moſt probable to con<g ref="char:EOLhyphen"/>duce
+<pb n="11" facs="tcp:119458:7"/>to the ſafetie and weale of the People; which they lately and worthily have decla<g ref="char:EOLhyphen"/>red to be the <hi>end of the Primitive Inſtitution</hi> of all Government.</p>
+            <p>Whoſoever ſhall tell you, that either themſelves or any others, will ever doe you more good then thoſe you have choſen; make no ſcruple to owne them for deceivers, that <hi>Abſolon</hi> like, kiſſe, and wooe you, of purpoſe to enſlave you.</p>
+            <p>What though ſome things may not be done ſo perfectly, or ſo inexcuſably as you could wiſh: Conſider, they are but men, ſubject to the ſame paſſions and infirmities as your ſelves; they are not like ſome anci<g ref="char:EOLhyphen"/>ent Fraudulent great Councels, that have maintained the Canons and Decrees there<g ref="char:EOLhyphen"/>of to be infallible: Nay, they are ſo farre from ſuch deluſion, that they have many times altered their owne Orders, Ordinan<g ref="char:EOLhyphen"/>ces, and Acts, upon further or better infor<g ref="char:EOLhyphen"/>mation, and doe not refuſe, nor reject Peti<g ref="char:EOLhyphen"/>tions and informations duly offered by any peaceable Perſons, few, or many, and as rea<g ref="char:EOLhyphen"/>dily follow the advices of others (which they approve) as their own immediate ap<g ref="char:EOLhyphen"/>prehenſions and Councels.</p>
+            <p>
+               <pb n="12" facs="tcp:119458:8"/>
+And as a ſure teſtimony of their faithful<g ref="char:EOLhyphen"/>neſſe and ſinceritie; doe but ſeriouſly con<g ref="char:EOLhyphen"/>ſider, how exceedingly God hath bleſſed them, <hi>viz.</hi> with the affections of the people; with power and ſtrength in the field, with deliverance from many moſt deſperate Plots, and out of many ſore and difficult exi<g ref="char:EOLhyphen"/>gents, that their enemies have bin as Chaffe before their Armies: What force hath bin to mighty, or <hi>place</hi> to ſtrong for their Achie<g ref="char:EOLhyphen"/>vement? And now, that they have all, as it were in their owne command (by the ſame good provide<g ref="char:cmbAbbrStroke">̄</g>ce of God) would you now be<g ref="char:EOLhyphen"/>cauſe they cannot pleaſe you in every parti<g ref="char:EOLhyphen"/>cular, except they ſhall go againſt their own Conſciences, gladly ſee them troden upon and brought under: Surely, if you would but open your eyes, you could not but ſee; that the hand of God is ſtill with them, and will not bee ſhortned: Hee hath already brought low the Mighty, and reproved, vanquiſhed even Kings for their ſakes, and for theirs whom they repreſent: And doe You now Thinke that Any ſhall be able to lay their honour in the duſt? You cannot certainly be many, that have been thus blinded or deluded: Nor can you poſſi<g ref="char:EOLhyphen"/>bly
+<pb n="13" facs="tcp:119458:8"/>long continue in ſo bad a mind. A little conſideration muſt neceſſarily change your minds, and God, I truſt, will prevent you with his converting grace, and will not ſuffer you to be tempted above your power. How<g ref="char:EOLhyphen"/>ever, this is moſt viſible to all conſiderate men, that there are multitudes of honeſt Re<g ref="char:EOLhyphen"/>ligious people, that remaine immaculate in their affections to this Honourable Parlia<g ref="char:EOLhyphen"/>ment, and are truly thankfull for their un<g ref="char:EOLhyphen"/>wearied labours, in recovery of the long loſt Liberties of this great Nation, and ſtand firmely reſolved to maintaine and defend with their lives and eſtates, their juſt power and priviledges againſt all oppoſition, cir<g ref="char:EOLhyphen"/>cumvention, or deluſion whatſoever: And thoſe who ſhall ceaſe to doe this, through a<g ref="char:EOLhyphen"/>ny conceived cauſe or provocation, they ſhall eſteeme them the moſt treacherous up<g ref="char:EOLhyphen"/>on earth, and not worthy the name of true <hi>Engliſh-men,</hi> or Chriſtians.</p>
+            <p>This, by generall diſcourſe and obſerva<g ref="char:EOLhyphen"/>vation, is found to be a known truth; and therefore, it is earneſtly hoped, the Honou<g ref="char:EOLhyphen"/>rable Parliament will no whit abate of their reſolutions, to make this Nation abſolutely free and happy, notwithſtanding the mani<g ref="char:EOLhyphen"/>fold
+<pb n="14" facs="tcp:119458:9"/>new diſcoveries of ſtrange Apparitions, if they but pleaſe to conſider ſeriouſly the true <hi>Engliſhmans</hi> temper<g ref="char:punc">▪</g> they will find, they have multitudes more with them then a<g ref="char:EOLhyphen"/>gainſt them; and that in times to come this ſhall be an Engliſh proverb, <hi>As certain to pe<g ref="char:EOLhyphen"/>riſh, as thoſe that openly oppoſe, or would ſecretly undermine a Parliament.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
